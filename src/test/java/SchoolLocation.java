@@ -1,5 +1,3 @@
-package RestAssureAPI_Testing;
-
 import com.github.javafaker.Faker;
 import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.http.ContentType;
